@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="logo.png" />
+  <img src="logo.png" width="275px"/>
 </h1>
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-red.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Curated lists of fonts for most versions of most operating systems. The font
 lists contain fonts installed with the operating system and additional fonts
