@@ -1,4 +1,4 @@
-## Fedora 25
+## Fedora 25 Workstation
 
 | Family | Name | Filename |
 | :--- | :--- | :--- |
