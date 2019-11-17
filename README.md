@@ -62,13 +62,13 @@ which can be downloaded from operating system sources.
 
 #### Fedora
 
-- [Fedora 31](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-31.md)
-- [Fedora 30](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-30.md)
-- [Fedora 29](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-29.md)
-- [Fedora 28](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-28.md)
-- [Fedora 27](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-27.md)
-- [Fedora 26](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-26.md)
-- [Fedora 25](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-25.md)
+- [Fedora 31 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-31-Workstation.md)
+- [Fedora 30 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-30-Workstation.md)
+- [Fedora 29 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-29-Workstation.md)
+- [Fedora 28 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-28-Workstation.md)
+- [Fedora 27 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-27-Workstation.md)
+- [Fedora 26 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-26-Workstation.md)
+- [Fedora 25 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-25-Workstation.md)
 
 ## Contributing
 
