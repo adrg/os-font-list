@@ -36,7 +36,10 @@ if __name__== "__main__":
                 csv_reader = csv.reader(file, delimiter=',')
 
                 fonts = []
-                for row in csv_reader:
+                for i, row in enumerate(csv_reader):
+                    if i == 0:
+                        continue
+
                     fonts.append({
                         'family': row[0].strip(),
                         'name': row[1].strip(),
