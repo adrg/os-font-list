@@ -70,6 +70,11 @@ which can be downloaded from operating system sources.
 - [Fedora 26 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-26-Workstation.md)
 - [Fedora 25 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-25-Workstation.md)
 
+#### CentOS
+
+- [CentOS 7](https://github.com/adrg/os-font-list/blob/master/md/linux/CentOS-7.md)
+- [CentOS 6](https://github.com/adrg/os-font-list/blob/master/md/linux/CentOS-6.md)
+
 ## Contributing
 
 Contributions in the form of pull requests, issues or just general feedback,
