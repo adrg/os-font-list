@@ -60,6 +60,16 @@ which can be downloaded from operating system sources.
 - [Debian 6: Squeeze](https://github.com/adrg/os-font-list/blob/master/md/linux/Debian-6_Squeeze.md)
 - [Debian 5: Lenny](https://github.com/adrg/os-font-list/blob/master/md/linux/Debian-5_Lenny.md)
 
+#### Fedora
+
+- [Fedora 31](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-31.md)
+- [Fedora 30](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-30.md)
+- [Fedora 29](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-29.md)
+- [Fedora 28](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-28.md)
+- [Fedora 27](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-27.md)
+- [Fedora 26](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-26.md)
+- [Fedora 25](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-25.md)
+
 ## Contributing
 
 Contributions in the form of pull requests, issues or just general feedback,
