@@ -79,8 +79,12 @@ See [CONTRIBUTING.md](https://github.com/adrg/os-font-list/blob/master/CONTRIBUT
 **Contribution guide**
 
 1. Modify one of the existing font CSV files in the `csv` directory, or add a new one.
-2. Generate updated versions of all Markdown files: `python ./generate_md.py`.
+2. Generate updated versions of Markdown files based on the CSV files: `python ./generate_md.py`.
 3. Make a PR with your modifications.
+
+**File naming convention**
+
+`OS-Name-Version_Code-Name.ext` (e.g. `Mac-OS-X-10.6_Snow-Leopard.csv`)
 
 ## References
 
