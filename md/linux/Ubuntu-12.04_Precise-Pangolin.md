@@ -184,7 +184,6 @@
 |Umpush|Umpush Light|Umpush-Light.ttf|
 |Umpush|Umpush Light Oblique|Umpush-LightOblique.ttf|
 |Umpush|Umpush Oblique|Umpush-Oblique.ttf|
-|Untitled1|Untitled1|Untitled1.ttf|
 |Vemana2000|Vemana2000|Vemana.ttf|
 |Waree|Waree|Waree.ttf|
 |Waree|Waree Bold|Waree-Bold.ttf|
