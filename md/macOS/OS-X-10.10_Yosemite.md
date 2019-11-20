@@ -579,21 +579,21 @@
 |Wawati SC|Wawati SC Regular|WawaSC-Regular.otf|
 |Wawati TC|Wawati TC Regular|WawaTC-Regular.otf|
 |Webdings|Webdings|Webdings.ttf|
-|Weibei SC Bold|Weibei SC Bold|WeibeiSC-Bold.otf|
-|Weibei TC Bold|Weibei TC Bold|WeibeiTC-Bold.otf|
+|Weibei SC|Weibei SC Bold|WeibeiSC-Bold.otf|
+|Weibei TC|Weibei TC Bold|WeibeiTC-Bold.otf|
 |Wingdings|Wingdings|Wingdings.ttf|
 |Wingdings|Wingdings 2|Wingdings 2.ttf|
 |Wingdings|Wingdings 3|Wingdings 3.ttf|
 |Xingkai SC|Xingkai SC Bold|Xingkai.ttc|
 |Xingkai SC|Xingkai SC Light|Xingkai.ttc|
-|YuGothic Bold|YuGothic Bold|Yu Gothic Bold.otf|
-|YuGothic Medium|YuGothic Medium|Yu Gothic Medium.otf|
+|YuGothic|YuGothic Bold|Yu Gothic Bold.otf|
+|YuGothic|YuGothic Medium|Yu Gothic Medium.otf|
 |YuMincho|YuMincho Demibold|Yu Mincho Demibold.otf|
 |YuMincho|YuMincho Medium|Yu Mincho Medium.otf|
 |Yuanti SC|Yuanti SC Bold|Yuanti.ttc|
 |Yuanti SC|Yuanti SC Light|Yuanti.ttc|
 |Yuanti SC|Yuanti SC Regular|Yuanti.ttc|
-|Yuppy SC Regular|Yuppy SC Regular|YuppySC-Regular.otf|
-|Yuppy TC Regular|Yuppy TC Regular|YuppyTC-Regular.otf|
+|Yuppy SC|Yuppy SC Regular|YuppySC-Regular.otf|
+|Yuppy TC|Yuppy TC Regular|YuppyTC-Regular.otf|
 |Zapf Dingbats|Zapf Dingbats|ZapfDingbats.ttf|
 |Zapfino|Zapfino|Zapfino.ttf|

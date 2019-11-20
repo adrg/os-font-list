@@ -389,7 +389,7 @@
 |Wingdings|Wingdings|Wingdings.ttf|
 |Wingdings|Wingdings 2|Wingdings 2.ttf|
 |Wingdings|Wingdings 3|Wingdings 3.ttf|
-|Yuppy SC Regular|Yuppy SC Regular|雅痞-简.otf|
-|Yuppy TC Regular|Yuppy TC Regular|雅痞-繁.otf|
+|Yuppy SC|Yuppy SC Regular|雅痞-简.otf|
+|Yuppy TC|Yuppy TC Regular|雅痞-繁.otf|
 |Zapf Dingbats|Zapf Dingbats|ZapfDingbats.ttf|
 |Zapfino|Zapfino|Zapfino.ttf|
