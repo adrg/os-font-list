@@ -33,6 +33,7 @@
 |FreeSerif|Free Serif Bold|FreeSerifBold.ttf|
 |FreeSerif|Free Serif Bold Italic|FreeSerifBoldItalic.ttf|
 |FreeSerif|Free Serif Italic|FreeSerifItalic.ttf|
+|Gargi|Gargi|gargi.ttf|
 |Garuda|Garuda|Garuda.ttf|
 |Garuda|Garuda Bold|Garuda-Bold.ttf|
 |Garuda|Garuda Bold Oblique|Garuda-BoldOblique.ttf|
@@ -191,6 +192,5 @@
 |Waree|Waree Oblique|Waree-Oblique.ttf|
 |WenQuanYi Micro Hei|WenQuanYi Micro Hei|wqy-microhei.ttc|
 |WenQuanYi Micro Hei Mono|WenQuanYi Micro Hei|wqy-microhei.ttc|
-|gargi|gargi|gargi.ttf|
 |mry_KacstQurn|mry_KacstQurn|mry_KacstQurn.ttf|
 |ori1Uni|ori1Uni Medium|utkal.ttf|
