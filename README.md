@@ -2,6 +2,21 @@
   <img src="logo.png" width="275px"/>
 </h1>
 
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT" rel="nofollow">
+        <img alt="MIT license" src="https://img.shields.io/github/license/adrg/os-font-list">
+    </a>
+    <a href="https://github.com/adrg/os-font-list/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/adrg/os-font-list" />
+    </a>
+    <a href="https://github.com/adrg/os-font-list/issues">
+        <img alt="GitHub open issues" src="https://img.shields.io/github/issues-raw/adrg/os-font-list">
+    </a>
+    <a href="https://ko-fi.com/T6T72WATK">
+        <img alt="Buy me a coffee" src="https://img.shields.io/static/v1.svg?label=%20&message=Buy%20me%20a%20coffee&color=579fbf&logo=buy%20me%20a%20coffee&logoColor=white">
+    </a>
+</p>
+
 Curated lists of fonts for most versions of most operating systems. The font
 lists contain fonts installed with the operating system and additional fonts
 which can be downloaded from operating system sources.
@@ -78,7 +93,7 @@ which can be downloaded from operating system sources.
 ## Contributing
 
 Contributions in the form of pull requests, issues or just general feedback,
-are always welcome.
+are always welcome.  
 See [CONTRIBUTING.md](https://github.com/adrg/os-font-list/blob/master/CONTRIBUTING.md).
 
 **Contribution guide**
