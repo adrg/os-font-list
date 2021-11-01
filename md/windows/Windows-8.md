@@ -1,283 +1,283 @@
 ## Windows 8
 
-| Family | Name | Filename |
-| :--- | :--- | :--- |
-|Aharoni Bold|Aharoni Bold|ahronbd.ttf|
-|Aldhabi|Aldhabi|aldhabi.ttf|
-|Andalus|Andalus|andlso.ttf|
-|Angsana New|Angsana New|angsa.ttf|
-|Angsana New|Angsana New Bold|angsab.ttf|
-|Angsana New|Angsana New Bold Italic|angsaz.ttf|
-|Angsana New|Angsana New Italic|angsai.ttf|
-|AngsanaUPC|AngsanaUPC|angsau.ttf|
-|AngsanaUPC|AngsanaUPC Bold|angsaub.ttf|
-|AngsanaUPC|AngsanaUPC Bold Italic|angsauz.ttf|
-|AngsanaUPC|AngsanaUPC Italic|angsaui.ttf|
-|Aparajita|Aparajita|aparaj.ttf|
-|Aparajita|Aparajita Bold|aparajb.ttf|
-|Aparajita|Aparajita Bold Italic|aparajbi.ttf|
-|Aparajita|Aparajita Italic|aparaji.ttf|
-|Arabic Typesetting|Arabic Typesetting|arabtype.ttf|
-|Arial|Arial|arial.ttf|
-|Arial|Arial Bold|arialbd.ttf|
-|Arial|Arial Bold Italic|arialbi.ttf|
-|Arial|Arial Italic|ariali.ttf|
-|Arial Black|Arial Black|ariblk.ttf|
-|Batang|Batang|batang.ttc|
-|Batang|BatangChe|batang.ttc|
-|Browallia New|Browallia New|browa.ttf|
-|Browallia New|Browallia New Bold|browab.ttf|
-|Browallia New|Browallia New Bold Italic|browaz.ttf|
-|Browallia New|Browallia New Italic|browai.ttf|
-|BrowalliaUPC|BrowalliaUPC|browau.ttf|
-|BrowalliaUPC|BrowalliaUPC Bold|browaub.ttf|
-|BrowalliaUPC|BrowalliaUPC Bold Italic|browauz.ttf|
-|BrowalliaUPC|BrowalliaUPC Italic|browaui.ttf|
-|Calibri|Calibri|calibri.ttf|
-|Calibri|Calibri Bold|calibrib.ttf|
-|Calibri|Calibri Bold Italic|calibriz.ttf|
-|Calibri|Calibri Italic|calibrii.ttf|
-|Calibri|Calibri Light|calibril.ttf|
-|Calibri|Calibri Light Italic|calibrili.ttf|
-|Cambria|Cambria|cambria.ttc|
-|Cambria|Cambria Bold|cambriab.ttf|
-|Cambria|Cambria Bold Italic|cambriaz.ttf|
-|Cambria|Cambria Italic|cambriai.ttf|
-|Cambria Math|Cambria Math|cambria.ttc|
-|Candara|Candara|candara.ttf|
-|Candara|Candara Bold|candarab.ttf|
-|Candara|Candara Bold Italic|candaraz.ttf|
-|Candara|Candara Italic|candarai.ttf|
-|Comic Sans MS|Comic Sans MS|comic.ttf|
-|Comic Sans MS|Comic Sans MS Bold|comicbd.ttf|
-|Comic Sans MS|Comic Sans MS Bold Italic|comicz.ttf|
-|Comic Sans MS|Comic Sans MS Italic|comici.ttf|
-|Consolas|Consolas|consola.ttf|
-|Consolas|Consolas Bold|consolab.ttf|
-|Consolas|Consolas Bold Italic|consolaz.ttf|
-|Consolas|Consolas Italic|consolai.ttf|
-|Constantia|Constantia|constan.ttf|
-|Constantia|Constantia Bold|constanb.ttf|
-|Constantia|Constantia Bold Italic|constanz.ttf|
-|Constantia|Constantia Italic|constani.ttf|
-|Corbel|Corbel|corbel.ttf|
-|Corbel|Corbel Bold|corbelb.ttf|
-|Corbel|Corbel Bold Italic|corbelz.ttf|
-|Corbel|Corbel Italic|corbeli.ttf|
-|Cordia New|Cordia New|cordia.ttf|
-|Cordia New|Cordia New Bold|cordiab.ttf|
-|Cordia New|Cordia New Bold Italic|cordiaz.ttf|
-|Cordia New|Cordia New Italic|cordiai.ttf|
-|CordiaUPC|CordiaUPC|cordiau.ttf|
-|CordiaUPC|CordiaUPC Bold|cordiaub.ttf|
-|CordiaUPC|CordiaUPC Bold Italic|cordiauz.ttf|
-|CordiaUPC|CordiaUPC Italic|cordiaui.ttf|
-|Courier New|Courier New|cour.ttf|
-|Courier New|Courier New Bold|courbd.ttf|
-|Courier New|Courier New Bold Italic|courbi.ttf|
-|Courier New|Courier New Italic|couri.ttf|
-|DFKai-SB|DFKai-SB|kaiu.ttf|
-|DaunPenh|DaunPenh|daunpenh.ttf|
-|David|David|david.ttf|
-|David|David Bold|davidbd.ttf|
-|DilleniaUPC|DilleniaUPC|upcdl.ttf|
-|DilleniaUPC|DilleniaUPC Bold|upcdb.ttf|
-|DilleniaUPC|DilleniaUPC Bold Italic|upcdbi.ttf|
-|DilleniaUPC|DilleniaUPC Italic|upcdi.ttf|
-|DokChampa|DokChampa|dokchamp.ttf|
-|Dotum|Dotum|gulim.ttc|
-|Dotum|DotumChe|gulim.ttc|
-|Ebrima|Ebrima|ebrima.ttf|
-|Ebrima|Ebrima Bold|ebrimabd.ttf|
-|Estrangelo Edessa|Estrangelo Edessa|estre.ttf|
-|EucrosiaUPC|EucrosiaUPC|upcel.ttf|
-|EucrosiaUPC|EucrosiaUPC Bold|upceb.ttf|
-|EucrosiaUPC|EucrosiaUPC Bold Italic|upcebi.ttf|
-|EucrosiaUPC|EucrosiaUPC Italic|upcei.ttf|
-|Euphemia|Euphemia|euphemia.ttf|
-|FangSong|FangSong|simfang.ttf|
-|FrankRuehl|FrankRuehl|frank.ttf|
-|Franklin Gothic Medium|Franklin Gothic Medium|framd.ttf|
-|Franklin Gothic Medium|Franklin Gothic Medium Italic|framdit.ttf|
-|FreesiaUPC|FreesiaUPC|upcfl.ttf|
-|FreesiaUPC|FreesiaUPC Bold|upcfb.ttf|
-|FreesiaUPC|FreesiaUPC Bold Italic|upcfbi.ttf|
-|FreesiaUPC|FreesiaUPC Italic|upcfi.ttf|
-|Gabriola|Gabriola|gabriola.ttf|
-|Gadugi|Gadugi|gadugi.ttf|
-|Gadugi|Gadugi Bold|gadugib.ttf|
-|Gautami|Gautami|gautami.ttf|
-|Gautami|Gautami Bold|gautamib.ttf|
-|Georgia|Georgia|georgia.ttf|
-|Georgia|Georgia Bold|georgiab.ttf|
-|Georgia|Georgia Bold Italic|georgiaz.ttf|
-|Georgia|Georgia Italic|georgiai.ttf|
-|Gisha|Gisha|gisha.ttf|
-|Gisha|Gisha Bold|gishabd.ttf|
-|Gulim|Gulim|gulim.ttc|
-|Gulim|GulimChe|gulim.ttc|
-|Gungsuh|Gungsuh|batang.ttc|
-|Gungsuh|GungsuhChe|batang.ttc|
-|Impact|Impact|impact.ttf|
-|IrisUPC|IrisUPC|upcil.ttf|
-|IrisUPC|IrisUPC Bold|upcib.ttf|
-|IrisUPC|IrisUPC Bold Italic|upcibi.ttf|
-|IrisUPC|IrisUPC Italic|upcii.ttf|
-|Iskoola Pota|Iskoola Pota|iskpota.ttf|
-|Iskoola Pota|Iskoola Pota Bold|iskpotab.ttf|
-|JasmineUPC|JasmineUPC|upcjl.ttf|
-|JasmineUPC|JasmineUPC Bold|upcjb.ttf|
-|JasmineUPC|JasmineUPC Bold Italic|upcjbi.ttf|
-|JasmineUPC|JasmineUPC Italic|upcji.ttf|
-|KaiTi|KaiTi|simkai.ttf|
-|Kalinga|Kalinga|kalinga.ttf|
-|Kalinga|Kalinga Bold|kalingab.ttf|
-|Kartika|Kartika|kartika.ttf|
-|Kartika|Kartika Bold|kartikab.ttf|
-|Khmer UI|Khmer UI|khmerui.ttf|
-|Khmer UI|Khmer UI Bold|khmeruib.ttf|
-|KodchiangUPC|KodchiangUPC|upckl.ttf|
-|KodchiangUPC|KodchiangUPC Bold|upckb.ttf|
-|KodchiangUPC|KodchiangUPC Bold Italic|upckbi.ttf|
-|KodchiangUPC|KodchiangUPC Italic|upcki.ttf|
-|Kokila|Kokila|kokila.ttf|
-|Kokila|Kokila Bold|kokilab.ttf|
-|Kokila|Kokila Bold Italic|kokilabi.ttf|
-|Kokila|Kokila Italic|kokilai.ttf|
-|Lao UI|Lao UI|laoui.ttf|
-|Lao UI|Lao UI Bold|laouib.ttf|
-|Latha|Latha|latha.ttf|
-|Latha|Latha Bold|lathab.ttf|
-|Leelawadee|Leelawadee|leelawad.ttf|
-|Leelawadee|Leelawadee Bold|leelawdb.ttf|
-|Levenim MT|Levenim MT|lvnm.ttf|
-|Levenim MT|Levenim MT Bold|lvnmbd.ttf|
-|LilyUPC|LilyUPC|upcll.ttf|
-|LilyUPC|LilyUPC Bold|upclb.ttf|
-|LilyUPC|LilyUPC Bold Italic|upclbi.ttf|
-|LilyUPC|LilyUPC Italic|upcli.ttf|
-|Lucida Console|Lucida Console|lucon.ttf|
-|Lucida Sans Unicode|Lucida Sans Unicode|l_10646.ttf|
-|MS Gothic|MS Gothic|msgothic.ttc|
-|MS Gothic|MS PGothic|msgothic.ttc|
-|MS Gothic|MS UI Gothic|msgothic.ttc|
-|MS Mincho|MS Mincho|msmincho.ttc|
-|MS Mincho|MS PMincho|msmincho.ttc|
-|MV Boli|MV Boli|mvboli.ttf|
-|Malgun Gothic|Malgun Gothic|malgun.ttf|
-|Malgun Gothic|Malgun Gothic Bold|malgunbd.ttf|
-|Mangal|Mangal|mangal.ttf|
-|Mangal|Mangal Bold|mangalb.ttf|
-|Marlett|Marlett|marlett.ttf|
-|Meiryo|Meiryo|meiryo.ttc|
-|Meiryo|Meiryo Bold|meiryob.ttc|
-|Meiryo|Meiryo Bold Italic|meiryob.ttc|
-|Meiryo|Meiryo Italic|meiryo.ttc|
-|Meiryo UI|Meiryo UI|meiryo.ttc|
-|Meiryo UI|Meiryo UI Bold|meiryob.ttc|
-|Meiryo UI|Meiryo UI Bold Italic|meiryob.ttc|
-|Meiryo UI|Meiryo UI Italic|meiryo.ttc|
-|Microsoft Himalaya|Microsoft Himalaya|himalaya.ttf|
-|Microsoft JhengHei|Microsoft JhengHei Bold|msjhbd.ttc|
-|Microsoft JhengHei|Microsoft JhengHei Regular|msjh.ttc|
-|Microsoft JhengHei|Microsoft JhengHei UI Bold|msjhbd.ttc|
-|Microsoft JhengHei|Microsoft JhengHei UI Regular|msjh.ttc|
-|Microsoft New Tai Lue|Microsoft New Tai Lue|ntailu.ttf|
-|Microsoft New Tai Lue|Microsoft New Tai Lue Bold|ntailub.ttf|
-|Microsoft PhagsPa|Microsoft PhagsPa|phagspa.ttf|
-|Microsoft PhagsPa|Microsoft PhagsPa Bold|phagspab.ttf|
-|Microsoft Sans Serif|Microsoft Sans Serif|micross.ttf|
-|Microsoft Tai Le|Microsoft Tai Le|taile.ttf|
-|Microsoft Tai Le|Microsoft Tai Le Bold|taileb.ttf|
-|Microsoft Uighur|Microsoft Uighur|msuighur.ttf|
-|Microsoft Uighur|Microsoft Uighur Bold|msuighub.ttf|
-|Microsoft YaHei|Microsoft YaHei|msyh.ttf|
-|Microsoft YaHei|Microsoft YaHei Bold|msyhbd.ttf|
-|Microsoft YaHei|Microsoft YaHei UI|msyh.ttf|
-|Microsoft YaHei|Microsoft YaHei UI Bold|msyhbd.ttf|
-|Microsoft Yi Baiti|Microsoft Yi Baiti|msyi.ttf|
-|MingLiU|MingLiU|mingliu.ttc|
-|MingLiU|MingLiU_HKSCS|mingliu.ttc|
-|MingLiU|PMingLiU|mingliu.ttc|
-|MingLiU-ExtB|MingLiU-ExtB|mingliub.ttc|
-|MingLiU-ExtB|MingLiU_HKSCS-ExtB|mingliub.ttc|
-|MingLiU-ExtB|PMingLiU-ExtB|mingliub.ttc|
-|Miriam|Miriam|mriam.ttf|
-|Miriam|Miriam Fixed|mriamc.ttf|
-|Mongolian Baiti|Mongolian Baiti|monbaiti.ttf|
-|MoolBoran|MoolBoran|moolbor.ttf|
-|Myanmar Text|Myanmar Text|mmrtext.ttf|
-|Narkisim|Narkisim|nrkis.ttf|
-|Nirmala UI|Nirmala UI|nirmala.ttf|
-|Nirmala UI|Nirmala UI Bold|nirmalab.ttf|
-|Nyala|Nyala|nyala.ttf|
-|Palatino Linotype|Palatino Linotype|pala.ttf|
-|Palatino Linotype|Palatino Linotype Bold|palab.ttf|
-|Palatino Linotype|Palatino Linotype Bold Italic|palabi.ttf|
-|Palatino Linotype|Palatino Linotype Italic|palai.ttf|
-|Plantagenet Cherokee|Plantagenet Cherokee|plantc.ttf|
-|Raavi|Raavi|raavi.ttf|
-|Raavi|Raavi Bold|raavib.ttf|
-|Rod|Rod|rod.ttf|
-|Sakkal Majalla|Sakkal Majalla|majalla.ttf|
-|Sakkal Majalla|Sakkal Majalla Bold|majallab.ttf|
-|Segoe Print|Segoe Print|segoepr.ttf|
-|Segoe Print|Segoe Print Bold|segoeprb.ttf|
-|Segoe Pseudo|Segoe Pseudo|segpseudo.ttf|
-|Segoe Script|Segoe Script|segoesc.ttf|
-|Segoe Script|Segoe Script Bold|segoescb.ttf|
-|Segoe UI|Segoe UI|segoeui.ttf|
-|Segoe UI|Segoe UI Bold|segoeuib.ttf|
-|Segoe UI|Segoe UI Bold Italic|segoeuiz.ttf|
-|Segoe UI|Segoe UI Italic|segoeuii.ttf|
-|Segoe UI|Segoe UI Light|segoeuil.ttf|
-|Segoe UI|Segoe UI Light Italic|seguili.ttf|
-|Segoe UI|Segoe UI Semibold|seguisb.ttf|
-|Segoe UI|Segoe UI Semibold Italic|seguisbi.ttf|
-|Segoe UI|Segoe UI Semilight|segoeuisl.ttf|
-|Segoe UI|Segoe UI Semilight Italic|seguisli.ttf|
-|Segoe UI Symbol|Segoe UI Symbol|seguisym.ttf|
-|Shonar Bangla|Shonar Bangla|shonar.ttf|
-|Shonar Bangla|Shonar Bangla Bold|shonarb.ttf|
-|Shruti|Shruti|shruti.ttf|
-|Shruti|Shruti Bold|shrutib.ttf|
-|SimHei|SimHei|simhei.ttf|
-|SimSun|NSimSun|simsun.ttc|
-|SimSun|SimSun|simsun.ttc|
-|SimSun-ExtB|SimSun-ExtB|simsunb.ttf|
-|Simplified Arabic|Simplified Arabic|simpo.ttf|
-|Simplified Arabic|Simplified Arabic Bold|simpbdo.ttf|
-|Simplified Arabic|Simplified Arabic Fixed|simpfxo.ttf|
-|Sylfaen|Sylfaen|sylfaen.ttf|
-|Symbol|Symbol|symbol.ttf|
-|Tahoma|Tahoma|tahoma.ttf|
-|Tahoma|Tahoma Bold|tahomabd.ttf|
-|Times New Roman|Times New Roman|times.ttf|
-|Times New Roman|Times New Roman Bold|timesbd.ttf|
-|Times New Roman|Times New Roman Bold Italic|timesbi.ttf|
-|Times New Roman|Times New Roman Italic|timesi.ttf|
-|Traditional Arabic|Traditional Arabic|trado.ttf|
-|Traditional Arabic|Traditional Arabic Bold|tradbdo.ttf|
-|Trebuchet MS|Trebuchet MS|trebuc.ttf|
-|Trebuchet MS|Trebuchet MS Bold|trebucbd.ttf|
-|Trebuchet MS|Trebuchet MS Bold Italic|trebucbi.ttf|
-|Trebuchet MS|Trebuchet MS Italic|trebucit.ttf|
-|Tunga|Tunga|tunga.ttf|
-|Tunga|Tunga Bold|tungab.ttf|
-|Urdu Typesetting|Urdu Typesetting|urdtype.ttf|
-|Utsaah|Utsaah|utsaah.ttf|
-|Utsaah|Utsaah Bold|utsaahb.ttf|
-|Utsaah|Utsaah Bold Italic|utsaahbi.ttf|
-|Utsaah|Utsaah Italic|utsaahi.ttf|
-|Vani|Vani|vani.ttf|
-|Vani|Vani Bold|vanib.ttf|
-|Verdana|Verdana|verdana.ttf|
-|Verdana|Verdana Bold|verdanab.ttf|
-|Verdana|Verdana Bold Italic|verdanaz.ttf|
-|Verdana|Verdana Italic|verdanai.ttf|
-|Vijaya|Vijaya|vijaya.ttf|
-|Vijaya|Vijaya Bold|vijayab.ttf|
-|Vrinda|Vrinda|vrinda.ttf|
-|Vrinda|Vrinda Bold|vrindab.ttf|
-|Webdings|Webdings|webdings.ttf|
-|Wingdings|Wingdings|wingding.ttf|
+| # | Family | Name | Filename |
+| :--- | :--- | :--- | :--- |
+| 1 | Aharoni Bold | Aharoni Bold | ahronbd.ttf |
+| 2 | Aldhabi | Aldhabi | aldhabi.ttf |
+| 3 | Andalus | Andalus | andlso.ttf |
+| 4 | Angsana New | Angsana New | angsa.ttf |
+| 5 | Angsana New | Angsana New Bold | angsab.ttf |
+| 6 | Angsana New | Angsana New Bold Italic | angsaz.ttf |
+| 7 | Angsana New | Angsana New Italic | angsai.ttf |
+| 8 | AngsanaUPC | AngsanaUPC | angsau.ttf |
+| 9 | AngsanaUPC | AngsanaUPC Bold | angsaub.ttf |
+| 10 | AngsanaUPC | AngsanaUPC Bold Italic | angsauz.ttf |
+| 11 | AngsanaUPC | AngsanaUPC Italic | angsaui.ttf |
+| 12 | Aparajita | Aparajita | aparaj.ttf |
+| 13 | Aparajita | Aparajita Bold | aparajb.ttf |
+| 14 | Aparajita | Aparajita Bold Italic | aparajbi.ttf |
+| 15 | Aparajita | Aparajita Italic | aparaji.ttf |
+| 16 | Arabic Typesetting | Arabic Typesetting | arabtype.ttf |
+| 17 | Arial | Arial | arial.ttf |
+| 18 | Arial | Arial Bold | arialbd.ttf |
+| 19 | Arial | Arial Bold Italic | arialbi.ttf |
+| 20 | Arial | Arial Italic | ariali.ttf |
+| 21 | Arial Black | Arial Black | ariblk.ttf |
+| 22 | Batang | Batang | batang.ttc |
+| 23 | Batang | BatangChe | batang.ttc |
+| 24 | Browallia New | Browallia New | browa.ttf |
+| 25 | Browallia New | Browallia New Bold | browab.ttf |
+| 26 | Browallia New | Browallia New Bold Italic | browaz.ttf |
+| 27 | Browallia New | Browallia New Italic | browai.ttf |
+| 28 | BrowalliaUPC | BrowalliaUPC | browau.ttf |
+| 29 | BrowalliaUPC | BrowalliaUPC Bold | browaub.ttf |
+| 30 | BrowalliaUPC | BrowalliaUPC Bold Italic | browauz.ttf |
+| 31 | BrowalliaUPC | BrowalliaUPC Italic | browaui.ttf |
+| 32 | Calibri | Calibri | calibri.ttf |
+| 33 | Calibri | Calibri Bold | calibrib.ttf |
+| 34 | Calibri | Calibri Bold Italic | calibriz.ttf |
+| 35 | Calibri | Calibri Italic | calibrii.ttf |
+| 36 | Calibri | Calibri Light | calibril.ttf |
+| 37 | Calibri | Calibri Light Italic | calibrili.ttf |
+| 38 | Cambria | Cambria | cambria.ttc |
+| 39 | Cambria | Cambria Bold | cambriab.ttf |
+| 40 | Cambria | Cambria Bold Italic | cambriaz.ttf |
+| 41 | Cambria | Cambria Italic | cambriai.ttf |
+| 42 | Cambria Math | Cambria Math | cambria.ttc |
+| 43 | Candara | Candara | candara.ttf |
+| 44 | Candara | Candara Bold | candarab.ttf |
+| 45 | Candara | Candara Bold Italic | candaraz.ttf |
+| 46 | Candara | Candara Italic | candarai.ttf |
+| 47 | Comic Sans MS | Comic Sans MS | comic.ttf |
+| 48 | Comic Sans MS | Comic Sans MS Bold | comicbd.ttf |
+| 49 | Comic Sans MS | Comic Sans MS Bold Italic | comicz.ttf |
+| 50 | Comic Sans MS | Comic Sans MS Italic | comici.ttf |
+| 51 | Consolas | Consolas | consola.ttf |
+| 52 | Consolas | Consolas Bold | consolab.ttf |
+| 53 | Consolas | Consolas Bold Italic | consolaz.ttf |
+| 54 | Consolas | Consolas Italic | consolai.ttf |
+| 55 | Constantia | Constantia | constan.ttf |
+| 56 | Constantia | Constantia Bold | constanb.ttf |
+| 57 | Constantia | Constantia Bold Italic | constanz.ttf |
+| 58 | Constantia | Constantia Italic | constani.ttf |
+| 59 | Corbel | Corbel | corbel.ttf |
+| 60 | Corbel | Corbel Bold | corbelb.ttf |
+| 61 | Corbel | Corbel Bold Italic | corbelz.ttf |
+| 62 | Corbel | Corbel Italic | corbeli.ttf |
+| 63 | Cordia New | Cordia New | cordia.ttf |
+| 64 | Cordia New | Cordia New Bold | cordiab.ttf |
+| 65 | Cordia New | Cordia New Bold Italic | cordiaz.ttf |
+| 66 | Cordia New | Cordia New Italic | cordiai.ttf |
+| 67 | CordiaUPC | CordiaUPC | cordiau.ttf |
+| 68 | CordiaUPC | CordiaUPC Bold | cordiaub.ttf |
+| 69 | CordiaUPC | CordiaUPC Bold Italic | cordiauz.ttf |
+| 70 | CordiaUPC | CordiaUPC Italic | cordiaui.ttf |
+| 71 | Courier New | Courier New | cour.ttf |
+| 72 | Courier New | Courier New Bold | courbd.ttf |
+| 73 | Courier New | Courier New Bold Italic | courbi.ttf |
+| 74 | Courier New | Courier New Italic | couri.ttf |
+| 75 | DFKai-SB | DFKai-SB | kaiu.ttf |
+| 76 | DaunPenh | DaunPenh | daunpenh.ttf |
+| 77 | David | David | david.ttf |
+| 78 | David | David Bold | davidbd.ttf |
+| 79 | DilleniaUPC | DilleniaUPC | upcdl.ttf |
+| 80 | DilleniaUPC | DilleniaUPC Bold | upcdb.ttf |
+| 81 | DilleniaUPC | DilleniaUPC Bold Italic | upcdbi.ttf |
+| 82 | DilleniaUPC | DilleniaUPC Italic | upcdi.ttf |
+| 83 | DokChampa | DokChampa | dokchamp.ttf |
+| 84 | Dotum | Dotum | gulim.ttc |
+| 85 | Dotum | DotumChe | gulim.ttc |
+| 86 | Ebrima | Ebrima | ebrima.ttf |
+| 87 | Ebrima | Ebrima Bold | ebrimabd.ttf |
+| 88 | Estrangelo Edessa | Estrangelo Edessa | estre.ttf |
+| 89 | EucrosiaUPC | EucrosiaUPC | upcel.ttf |
+| 90 | EucrosiaUPC | EucrosiaUPC Bold | upceb.ttf |
+| 91 | EucrosiaUPC | EucrosiaUPC Bold Italic | upcebi.ttf |
+| 92 | EucrosiaUPC | EucrosiaUPC Italic | upcei.ttf |
+| 93 | Euphemia | Euphemia | euphemia.ttf |
+| 94 | FangSong | FangSong | simfang.ttf |
+| 95 | FrankRuehl | FrankRuehl | frank.ttf |
+| 96 | Franklin Gothic Medium | Franklin Gothic Medium | framd.ttf |
+| 97 | Franklin Gothic Medium | Franklin Gothic Medium Italic | framdit.ttf |
+| 98 | FreesiaUPC | FreesiaUPC | upcfl.ttf |
+| 99 | FreesiaUPC | FreesiaUPC Bold | upcfb.ttf |
+| 100 | FreesiaUPC | FreesiaUPC Bold Italic | upcfbi.ttf |
+| 101 | FreesiaUPC | FreesiaUPC Italic | upcfi.ttf |
+| 102 | Gabriola | Gabriola | gabriola.ttf |
+| 103 | Gadugi | Gadugi | gadugi.ttf |
+| 104 | Gadugi | Gadugi Bold | gadugib.ttf |
+| 105 | Gautami | Gautami | gautami.ttf |
+| 106 | Gautami | Gautami Bold | gautamib.ttf |
+| 107 | Georgia | Georgia | georgia.ttf |
+| 108 | Georgia | Georgia Bold | georgiab.ttf |
+| 109 | Georgia | Georgia Bold Italic | georgiaz.ttf |
+| 110 | Georgia | Georgia Italic | georgiai.ttf |
+| 111 | Gisha | Gisha | gisha.ttf |
+| 112 | Gisha | Gisha Bold | gishabd.ttf |
+| 113 | Gulim | Gulim | gulim.ttc |
+| 114 | Gulim | GulimChe | gulim.ttc |
+| 115 | Gungsuh | Gungsuh | batang.ttc |
+| 116 | Gungsuh | GungsuhChe | batang.ttc |
+| 117 | Impact | Impact | impact.ttf |
+| 118 | IrisUPC | IrisUPC | upcil.ttf |
+| 119 | IrisUPC | IrisUPC Bold | upcib.ttf |
+| 120 | IrisUPC | IrisUPC Bold Italic | upcibi.ttf |
+| 121 | IrisUPC | IrisUPC Italic | upcii.ttf |
+| 122 | Iskoola Pota | Iskoola Pota | iskpota.ttf |
+| 123 | Iskoola Pota | Iskoola Pota Bold | iskpotab.ttf |
+| 124 | JasmineUPC | JasmineUPC | upcjl.ttf |
+| 125 | JasmineUPC | JasmineUPC Bold | upcjb.ttf |
+| 126 | JasmineUPC | JasmineUPC Bold Italic | upcjbi.ttf |
+| 127 | JasmineUPC | JasmineUPC Italic | upcji.ttf |
+| 128 | KaiTi | KaiTi | simkai.ttf |
+| 129 | Kalinga | Kalinga | kalinga.ttf |
+| 130 | Kalinga | Kalinga Bold | kalingab.ttf |
+| 131 | Kartika | Kartika | kartika.ttf |
+| 132 | Kartika | Kartika Bold | kartikab.ttf |
+| 133 | Khmer UI | Khmer UI | khmerui.ttf |
+| 134 | Khmer UI | Khmer UI Bold | khmeruib.ttf |
+| 135 | KodchiangUPC | KodchiangUPC | upckl.ttf |
+| 136 | KodchiangUPC | KodchiangUPC Bold | upckb.ttf |
+| 137 | KodchiangUPC | KodchiangUPC Bold Italic | upckbi.ttf |
+| 138 | KodchiangUPC | KodchiangUPC Italic | upcki.ttf |
+| 139 | Kokila | Kokila | kokila.ttf |
+| 140 | Kokila | Kokila Bold | kokilab.ttf |
+| 141 | Kokila | Kokila Bold Italic | kokilabi.ttf |
+| 142 | Kokila | Kokila Italic | kokilai.ttf |
+| 143 | Lao UI | Lao UI | laoui.ttf |
+| 144 | Lao UI | Lao UI Bold | laouib.ttf |
+| 145 | Latha | Latha | latha.ttf |
+| 146 | Latha | Latha Bold | lathab.ttf |
+| 147 | Leelawadee | Leelawadee | leelawad.ttf |
+| 148 | Leelawadee | Leelawadee Bold | leelawdb.ttf |
+| 149 | Levenim MT | Levenim MT | lvnm.ttf |
+| 150 | Levenim MT | Levenim MT Bold | lvnmbd.ttf |
+| 151 | LilyUPC | LilyUPC | upcll.ttf |
+| 152 | LilyUPC | LilyUPC Bold | upclb.ttf |
+| 153 | LilyUPC | LilyUPC Bold Italic | upclbi.ttf |
+| 154 | LilyUPC | LilyUPC Italic | upcli.ttf |
+| 155 | Lucida Console | Lucida Console | lucon.ttf |
+| 156 | Lucida Sans Unicode | Lucida Sans Unicode | l_10646.ttf |
+| 157 | MS Gothic | MS Gothic | msgothic.ttc |
+| 158 | MS Gothic | MS PGothic | msgothic.ttc |
+| 159 | MS Gothic | MS UI Gothic | msgothic.ttc |
+| 160 | MS Mincho | MS Mincho | msmincho.ttc |
+| 161 | MS Mincho | MS PMincho | msmincho.ttc |
+| 162 | MV Boli | MV Boli | mvboli.ttf |
+| 163 | Malgun Gothic | Malgun Gothic | malgun.ttf |
+| 164 | Malgun Gothic | Malgun Gothic Bold | malgunbd.ttf |
+| 165 | Mangal | Mangal | mangal.ttf |
+| 166 | Mangal | Mangal Bold | mangalb.ttf |
+| 167 | Marlett | Marlett | marlett.ttf |
+| 168 | Meiryo | Meiryo | meiryo.ttc |
+| 169 | Meiryo | Meiryo Bold | meiryob.ttc |
+| 170 | Meiryo | Meiryo Bold Italic | meiryob.ttc |
+| 171 | Meiryo | Meiryo Italic | meiryo.ttc |
+| 172 | Meiryo UI | Meiryo UI | meiryo.ttc |
+| 173 | Meiryo UI | Meiryo UI Bold | meiryob.ttc |
+| 174 | Meiryo UI | Meiryo UI Bold Italic | meiryob.ttc |
+| 175 | Meiryo UI | Meiryo UI Italic | meiryo.ttc |
+| 176 | Microsoft Himalaya | Microsoft Himalaya | himalaya.ttf |
+| 177 | Microsoft JhengHei | Microsoft JhengHei Bold | msjhbd.ttc |
+| 178 | Microsoft JhengHei | Microsoft JhengHei Regular | msjh.ttc |
+| 179 | Microsoft JhengHei | Microsoft JhengHei UI Bold | msjhbd.ttc |
+| 180 | Microsoft JhengHei | Microsoft JhengHei UI Regular | msjh.ttc |
+| 181 | Microsoft New Tai Lue | Microsoft New Tai Lue | ntailu.ttf |
+| 182 | Microsoft New Tai Lue | Microsoft New Tai Lue Bold | ntailub.ttf |
+| 183 | Microsoft PhagsPa | Microsoft PhagsPa | phagspa.ttf |
+| 184 | Microsoft PhagsPa | Microsoft PhagsPa Bold | phagspab.ttf |
+| 185 | Microsoft Sans Serif | Microsoft Sans Serif | micross.ttf |
+| 186 | Microsoft Tai Le | Microsoft Tai Le | taile.ttf |
+| 187 | Microsoft Tai Le | Microsoft Tai Le Bold | taileb.ttf |
+| 188 | Microsoft Uighur | Microsoft Uighur | msuighur.ttf |
+| 189 | Microsoft Uighur | Microsoft Uighur Bold | msuighub.ttf |
+| 190 | Microsoft YaHei | Microsoft YaHei | msyh.ttf |
+| 191 | Microsoft YaHei | Microsoft YaHei Bold | msyhbd.ttf |
+| 192 | Microsoft YaHei | Microsoft YaHei UI | msyh.ttf |
+| 193 | Microsoft YaHei | Microsoft YaHei UI Bold | msyhbd.ttf |
+| 194 | Microsoft Yi Baiti | Microsoft Yi Baiti | msyi.ttf |
+| 195 | MingLiU | MingLiU | mingliu.ttc |
+| 196 | MingLiU | MingLiU_HKSCS | mingliu.ttc |
+| 197 | MingLiU | PMingLiU | mingliu.ttc |
+| 198 | MingLiU-ExtB | MingLiU-ExtB | mingliub.ttc |
+| 199 | MingLiU-ExtB | MingLiU_HKSCS-ExtB | mingliub.ttc |
+| 200 | MingLiU-ExtB | PMingLiU-ExtB | mingliub.ttc |
+| 201 | Miriam | Miriam | mriam.ttf |
+| 202 | Miriam | Miriam Fixed | mriamc.ttf |
+| 203 | Mongolian Baiti | Mongolian Baiti | monbaiti.ttf |
+| 204 | MoolBoran | MoolBoran | moolbor.ttf |
+| 205 | Myanmar Text | Myanmar Text | mmrtext.ttf |
+| 206 | Narkisim | Narkisim | nrkis.ttf |
+| 207 | Nirmala UI | Nirmala UI | nirmala.ttf |
+| 208 | Nirmala UI | Nirmala UI Bold | nirmalab.ttf |
+| 209 | Nyala | Nyala | nyala.ttf |
+| 210 | Palatino Linotype | Palatino Linotype | pala.ttf |
+| 211 | Palatino Linotype | Palatino Linotype Bold | palab.ttf |
+| 212 | Palatino Linotype | Palatino Linotype Bold Italic | palabi.ttf |
+| 213 | Palatino Linotype | Palatino Linotype Italic | palai.ttf |
+| 214 | Plantagenet Cherokee | Plantagenet Cherokee | plantc.ttf |
+| 215 | Raavi | Raavi | raavi.ttf |
+| 216 | Raavi | Raavi Bold | raavib.ttf |
+| 217 | Rod | Rod | rod.ttf |
+| 218 | Sakkal Majalla | Sakkal Majalla | majalla.ttf |
+| 219 | Sakkal Majalla | Sakkal Majalla Bold | majallab.ttf |
+| 220 | Segoe Print | Segoe Print | segoepr.ttf |
+| 221 | Segoe Print | Segoe Print Bold | segoeprb.ttf |
+| 222 | Segoe Pseudo | Segoe Pseudo | segpseudo.ttf |
+| 223 | Segoe Script | Segoe Script | segoesc.ttf |
+| 224 | Segoe Script | Segoe Script Bold | segoescb.ttf |
+| 225 | Segoe UI | Segoe UI | segoeui.ttf |
+| 226 | Segoe UI | Segoe UI Bold | segoeuib.ttf |
+| 227 | Segoe UI | Segoe UI Bold Italic | segoeuiz.ttf |
+| 228 | Segoe UI | Segoe UI Italic | segoeuii.ttf |
+| 229 | Segoe UI | Segoe UI Light | segoeuil.ttf |
+| 230 | Segoe UI | Segoe UI Light Italic | seguili.ttf |
+| 231 | Segoe UI | Segoe UI Semibold | seguisb.ttf |
+| 232 | Segoe UI | Segoe UI Semibold Italic | seguisbi.ttf |
+| 233 | Segoe UI | Segoe UI Semilight | segoeuisl.ttf |
+| 234 | Segoe UI | Segoe UI Semilight Italic | seguisli.ttf |
+| 235 | Segoe UI Symbol | Segoe UI Symbol | seguisym.ttf |
+| 236 | Shonar Bangla | Shonar Bangla | shonar.ttf |
+| 237 | Shonar Bangla | Shonar Bangla Bold | shonarb.ttf |
+| 238 | Shruti | Shruti | shruti.ttf |
+| 239 | Shruti | Shruti Bold | shrutib.ttf |
+| 240 | SimHei | SimHei | simhei.ttf |
+| 241 | SimSun | NSimSun | simsun.ttc |
+| 242 | SimSun | SimSun | simsun.ttc |
+| 243 | SimSun-ExtB | SimSun-ExtB | simsunb.ttf |
+| 244 | Simplified Arabic | Simplified Arabic | simpo.ttf |
+| 245 | Simplified Arabic | Simplified Arabic Bold | simpbdo.ttf |
+| 246 | Simplified Arabic | Simplified Arabic Fixed | simpfxo.ttf |
+| 247 | Sylfaen | Sylfaen | sylfaen.ttf |
+| 248 | Symbol | Symbol | symbol.ttf |
+| 249 | Tahoma | Tahoma | tahoma.ttf |
+| 250 | Tahoma | Tahoma Bold | tahomabd.ttf |
+| 251 | Times New Roman | Times New Roman | times.ttf |
+| 252 | Times New Roman | Times New Roman Bold | timesbd.ttf |
+| 253 | Times New Roman | Times New Roman Bold Italic | timesbi.ttf |
+| 254 | Times New Roman | Times New Roman Italic | timesi.ttf |
+| 255 | Traditional Arabic | Traditional Arabic | trado.ttf |
+| 256 | Traditional Arabic | Traditional Arabic Bold | tradbdo.ttf |
+| 257 | Trebuchet MS | Trebuchet MS | trebuc.ttf |
+| 258 | Trebuchet MS | Trebuchet MS Bold | trebucbd.ttf |
+| 259 | Trebuchet MS | Trebuchet MS Bold Italic | trebucbi.ttf |
+| 260 | Trebuchet MS | Trebuchet MS Italic | trebucit.ttf |
+| 261 | Tunga | Tunga | tunga.ttf |
+| 262 | Tunga | Tunga Bold | tungab.ttf |
+| 263 | Urdu Typesetting | Urdu Typesetting | urdtype.ttf |
+| 264 | Utsaah | Utsaah | utsaah.ttf |
+| 265 | Utsaah | Utsaah Bold | utsaahb.ttf |
+| 266 | Utsaah | Utsaah Bold Italic | utsaahbi.ttf |
+| 267 | Utsaah | Utsaah Italic | utsaahi.ttf |
+| 268 | Vani | Vani | vani.ttf |
+| 269 | Vani | Vani Bold | vanib.ttf |
+| 270 | Verdana | Verdana | verdana.ttf |
+| 271 | Verdana | Verdana Bold | verdanab.ttf |
+| 272 | Verdana | Verdana Bold Italic | verdanaz.ttf |
+| 273 | Verdana | Verdana Italic | verdanai.ttf |
+| 274 | Vijaya | Vijaya | vijaya.ttf |
+| 275 | Vijaya | Vijaya Bold | vijayab.ttf |
+| 276 | Vrinda | Vrinda | vrinda.ttf |
+| 277 | Vrinda | Vrinda Bold | vrindab.ttf |
+| 278 | Webdings | Webdings | webdings.ttf |
+| 279 | Wingdings | Wingdings | wingding.ttf |
