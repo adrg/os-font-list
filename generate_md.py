@@ -10,12 +10,12 @@ def generate_md(path, os, fonts):
         file.write('## %s\n\n' % os)
 
         # Write table header.
-        file.write('| Family | Name | Filename |\n')
-        file.write('| :--- | :--- | :--- |\n')
+        file.write('| # | Family | Name | Filename |\n')
+        file.write('| :--- | :--- | :--- | :--- |\n')
 
         # Write font rows.
-        for f in fonts:
-            file.write('|%s|%s|%s|\n' % (f['family'], f['name'], f['filename']))
+        for idx, f in enumerate(fonts):
+            file.write('| %d | %s | %s | %s |\n' % (idx+1, f['family'], f['name'], f['filename']))
 
 if __name__== "__main__":
     # Get current directory.
