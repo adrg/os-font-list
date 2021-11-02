@@ -55,6 +55,7 @@ which can be downloaded from operating system sources.
 
 #### Ubuntu
 
+- [Ubuntu 21.04: Hirsute Hippo](https://github.com/adrg/os-font-list/blob/master/md/linux/Ubuntu-21.04_Hirsute-Hippo.md)
 - [Ubuntu 20.04: Focal Fossa](https://github.com/adrg/os-font-list/blob/master/md/linux/Ubuntu-20.04_Focal-Fossa.md)
 - [Ubuntu 19.04: Disco Dingo](https://github.com/adrg/os-font-list/blob/master/md/linux/Ubuntu-19.04_Disco-Dingo.md)
 - [Ubuntu 18.04: Bionic Beaver](https://github.com/adrg/os-font-list/blob/master/md/linux/Ubuntu-18.04_Bionic-Beaver.md)
