@@ -70,6 +70,7 @@ which can be downloaded from operating system sources.
 
 #### Debian
 
+- [Debian 11: Buster](https://github.com/adrg/os-font-list/blob/master/md/linux/Debian-11_Bullseye.md)
 - [Debian 10: Buster](https://github.com/adrg/os-font-list/blob/master/md/linux/Debian-10_Buster.md)
 - [Debian 9: Stretch](https://github.com/adrg/os-font-list/blob/master/md/linux/Debian-9_Stretch.md)
 - [Debian 8: Jessie](https://github.com/adrg/os-font-list/blob/master/md/linux/Debian-8_Jessie.md)
