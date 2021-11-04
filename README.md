@@ -80,6 +80,7 @@ which can be downloaded from operating system sources.
 
 #### Fedora
 
+- [Fedora 35 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-35-Workstation.md)
 - [Fedora 34 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-34-Workstation.md)
 - [Fedora 33 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-33-Workstation.md)
 - [Fedora 32 Workstation](https://github.com/adrg/os-font-list/blob/master/md/linux/Fedora-32-Workstation.md)
